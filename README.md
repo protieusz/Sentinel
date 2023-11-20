@@ -1,7 +1,18 @@
 # Sentinel
 37 column stagger unisplit keyboard with 25mm trackball powered by Omega Supreme Rev 4 all in one module and Universal daughterboard card C3
 
-FUSION360 Rendering:
+FUSION360 & EasyEDA PCB Rendering:
+
+![Screenshot 2023-11-19 at 9 27 48 PM](https://github.com/protieusz/Sentinel/assets/118025702/97bc0e4a-f83f-472c-a52f-7c6da4df51f3)
+![Screenshot 2023-11-20 at 10 33 51 AM](https://github.com/protieusz/Sentinel/assets/118025702/14774d38-015f-42ce-ad2b-e895e604a725)
+![Screenshot 2023-11-20 at 10 34 07 AM](https://github.com/protieusz/Sentinel/assets/118025702/606c3aef-9db7-4216-9d93-f325845c60ea)
+![Screenshot 2023-11-20 at 10 35 12 AM](https://github.com/protieusz/Sentinel/assets/118025702/535d5ab3-aabc-41b2-b9d7-2774f04301d8)
+![Screenshot 2023-11-20 at 10 35 28 AM](https://github.com/protieusz/Sentinel/assets/118025702/3877ea6a-8a11-46ef-a0e6-14e50635118e)
+![Screenshot 2023-11-20 at 10 35 46 AM](https://github.com/protieusz/Sentinel/assets/118025702/b76a5a12-009a-4573-b2e9-490d3f6f3206)
+
+Estimate 25mm trackball height to the mock up keycap height. Pretty low profile. Good for the hands.
+![Screenshot 2023-11-20 at 10 44 41 AM](https://github.com/protieusz/Sentinel/assets/118025702/d3799bd7-1880-4dc3-a55e-b0d98eadae6e)
+![Screenshot 2023-11-20 at 10 44 24 AM](https://github.com/protieusz/Sentinel/assets/118025702/2137a915-3335-4755-a86d-ea86b69bc5b9)
 
 ![Screenshot 2023-11-19 at 11 41 39 AM](https://github.com/protieusz/Sentinel/assets/118025702/181ea17b-0164-4ee6-9f84-17cfc28b6ea0)
 ![Screenshot 2023-11-19 at 11 41 28 AM](https://github.com/protieusz/Sentinel/assets/118025702/83ca5332-e635-467e-9e1d-f010e54e2802)
