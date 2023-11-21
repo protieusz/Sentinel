@@ -1,6 +1,13 @@
 # Sentinel
 37 column stagger unisplit keyboard with 25mm trackball powered by Omega Supreme Rev 4 all in one module and Universal daughterboard card C3
 
+November 21, 2023 3DPs
+
+![IMG_0418](https://github.com/protieusz/Sentinel/assets/118025702/5bb06190-0b76-4cc1-ae05-6e56252302b4)
+![IMG_0419](https://github.com/protieusz/Sentinel/assets/118025702/c5970b05-1ba9-4cb0-a1b7-235e68edf9bf)
+![IMG_0420](https://github.com/protieusz/Sentinel/assets/118025702/8021cc2d-55d3-4cc6-929f-a3575acf6f0c)
+
+
 FUSION360 & EasyEDA PCB Rendering:
 
 ![Screenshot 2023-11-19 at 9 27 48 PM](https://github.com/protieusz/Sentinel/assets/118025702/97bc0e4a-f83f-472c-a52f-7c6da4df51f3)
