@@ -11,6 +11,7 @@ November 21, 2023 3DPs
 FUSION360 & EasyEDA PCB Rendering:
 
 ![Screenshot 2023-11-19 at 9 27 48 PM](https://github.com/protieusz/Sentinel/assets/118025702/97bc0e4a-f83f-472c-a52f-7c6da4df51f3)
+Graphic mech icon borrowed from https://iconscout.com/icons/mech 
 ![Screenshot 2023-11-20 at 10 33 51 AM](https://github.com/protieusz/Sentinel/assets/118025702/14774d38-015f-42ce-ad2b-e895e604a725)
 ![Screenshot 2023-11-20 at 10 34 07 AM](https://github.com/protieusz/Sentinel/assets/118025702/606c3aef-9db7-4216-9d93-f325845c60ea)
 ![Screenshot 2023-11-20 at 10 35 12 AM](https://github.com/protieusz/Sentinel/assets/118025702/535d5ab3-aabc-41b2-b9d7-2774f04301d8)
