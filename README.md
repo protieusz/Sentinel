@@ -4,7 +4,7 @@
 3DP trackball holder is designed by @ma_po_daisuki and his designs are being sold at [his Booth store](https://ma-po.booth.pm/items/5258743) which cost around $10 cad. Go check it out and support him.
 November 21, 2023 3DPs
 
-Mech silkscreen icon borrowed from [Adobe Stock]([https://ma-po.booth.pm/items/5258743](https://stock.adobe.com/ca/images/giant-mecha-robot-or-battle-bot-set-collection-vector-icons-illustrations-of-gigantic-mechanical-machine-or-big-mech-robots-for-war-and-military-robot-model-concept-for-games-and-character-design/390622019)) 
+Mech silkscreen icon borrowed from [Adobe Stock]([https://ma-po.booth.pm/items/5258743](https://stock.adobe.com/ca/images/giant-mecha-robot-or-battle-bot-set-collection-vector-icons-illustrations-of-gigantic-mechanical-machine-or-big-mech-robots-for-war-and-military-robot-model-concept-for-games-and-character-design/390622019) 
 
 ![IMG_0418](https://github.com/protieusz/Sentinel/assets/118025702/5bb06190-0b76-4cc1-ae05-6e56252302b4)
 ![IMG_0419](https://github.com/protieusz/Sentinel/assets/118025702/c5970b05-1ba9-4cb0-a1b7-235e68edf9bf)
