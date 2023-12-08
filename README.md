@@ -52,10 +52,7 @@ Unboxing
 ![IMG_0663](https://github.com/protieusz/Sentinel/assets/118025702/9d7a4185-5209-4f6a-a444-bc43b7284b82)
 ![IMG_0662](https://github.com/protieusz/Sentinel/assets/118025702/5b8309ee-7901-4ab2-86da-111ef9d76f06)
 
-
-
-
-
+Switchplate Test Fit:
 
 ![IMG_0418](https://github.com/protieusz/Sentinel/assets/118025702/5bb06190-0b76-4cc1-ae05-6e56252302b4)
 ![IMG_0419](https://github.com/protieusz/Sentinel/assets/118025702/c5970b05-1ba9-4cb0-a1b7-235e68edf9bf)
