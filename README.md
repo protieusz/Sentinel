@@ -93,3 +93,7 @@ Trackball Test Fitting:
 
 ![IMG_0386](https://github.com/protieusz/Sentinel/assets/118025702/b90c90c3-76da-4c6c-8da8-c3db268797bf)
 ![IMG_0385](https://github.com/protieusz/Sentinel/assets/118025702/4215a50c-62d3-4109-8841-a799f42d2a8d)
+
+Initial Prototyping Test:
+
+![IMG_0505](https://github.com/protieusz/Sentinel/assets/118025702/bbe3fe12-64e1-449d-9cad-b534e679b086)
