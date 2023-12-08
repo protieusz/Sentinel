@@ -1,8 +1,60 @@
 # Sentinel
 37 column stagger unisplit keyboard with 25mm or 34mm trackball powered by Omega Supreme Rev 4 all in one module and Universal daughterboard card C3
 
+The Sentinel PCB is sponsored by ![PCBWay](https://github.com/protieusz/Sentinel/assets/118025702/d6bd30d1-d528-4dc9-90f1-f4e84397b4d5)
+PCBWay is your one stop location for all your PCB needs.  High quality PCBA soldering service.  Thank you PCBWay!
+
 3DP trackball holder is designed by @ma_po_daisuki and his designs are being sold at [his Booth store](https://ma-po.booth.pm/items/5258743) which cost around $10 cad. Go check it out and support him.
 November 21, 2023 3DPs
+
+Final Build Pictures:
+
+![IMG_0657](https://github.com/protieusz/Sentinel/assets/118025702/0c1af8b4-8d0c-48e1-94b4-bb2f903c4dc1)
+![IMG_0656](https://github.com/protieusz/Sentinel/assets/118025702/27b509d3-157b-402f-8443-c0ebab0471b5)
+![IMG_0655](https://github.com/protieusz/Sentinel/assets/118025702/ff6dac3b-6546-493d-8d74-3690ed9484c3)
+![IMG_0654](https://github.com/protieusz/Sentinel/assets/118025702/602a8032-cfb0-4a18-ad94-efc84903e570)
+![IMG_0653](https://github.com/protieusz/Sentinel/assets/118025702/c1ff32c3-3724-4eba-96f7-bb95162c8904)
+
+Build Process:
+
+![IMG_0630](https://github.com/protieusz/Sentinel/assets/118025702/e5bd0ffc-fd17-405f-a7b4-7551bc955a31)
+![IMG_0631](https://github.com/protieusz/Sentinel/assets/118025702/c9283ebe-29ba-44fc-b8bd-67eb7d807062)
+![IMG_0632](https://github.com/protieusz/Sentinel/assets/118025702/7b0d3abe-58a7-45bf-b5b8-377d42af4a16)
+![IMG_0640](https://github.com/protieusz/Sentinel/assets/118025702/5984e482-fb6b-4478-90bf-4ff2c0fb9f73)
+![IMG_0639](https://github.com/protieusz/Sentinel/assets/118025702/d78ee895-9ef9-4ca1-9037-02d88886ead4)
+![IMG_0638](https://github.com/protieusz/Sentinel/assets/118025702/dd4b2875-1a50-471e-914f-db9755ce3d5e)
+![IMG_0637](https://github.com/protieusz/Sentinel/assets/118025702/e6a68360-b9f0-4627-b960-0210c8fe9769)
+![IMG_0636](https://github.com/protieusz/Sentinel/assets/118025702/84386af5-46fd-4f63-b903-0601da4c7b42)
+![IMG_0635](https://github.com/protieusz/Sentinel/assets/118025702/1088967c-47b8-4da7-89f4-0e8cf93e9c04)
+![IMG_0634](https://github.com/protieusz/Sentinel/assets/118025702/c2a1e7f1-da6a-4d1a-9e1b-6cb85aeb7698)
+![IMG_0633](https://github.com/protieusz/Sentinel/assets/118025702/cb8550ed-9277-4e61-9f62-aea4d33facb3)
+![IMG_0645](https://github.com/protieusz/Sentinel/assets/118025702/08cf12e5-d824-43d0-880b-79ab5b6c7c77)
+![IMG_0644](https://github.com/protieusz/Sentinel/assets/118025702/218fbed4-9452-4007-a977-3f6585f90c79)
+![IMG_0643](https://github.com/protieusz/Sentinel/assets/118025702/a703ca56-87b4-49f3-a73e-b92658fffde0)
+![IMG_0642](https://github.com/protieusz/Sentinel/assets/118025702/f421c6ff-6696-4ccc-bbf0-62c3c16773eb)
+![IMG_0652](https://github.com/protieusz/Sentinel/assets/118025702/bff45666-aeb5-4944-bd24-0fa955b01a10)
+![IMG_0543](https://github.com/protieusz/Sentinel/assets/118025702/827643dc-8a3d-4912-9f17-00201035acf2)
+![IMG_0520](https://github.com/protieusz/Sentinel/assets/118025702/f15f1e55-78e2-45d4-a870-21bb57f82cf3)
+![IMG_0521](https://github.com/protieusz/Sentinel/assets/118025702/36e36987-5cf4-4cde-9723-d5047aba5f30)
+![IMG_0523](https://github.com/protieusz/Sentinel/assets/118025702/4be2e271-fdf3-4c13-bcab-89aace6fbf72)
+![IMG_0525](https://github.com/protieusz/Sentinel/assets/118025702/94bc412f-5ce9-49e0-b97c-4e26bba1129d)
+![IMG_0526](https://github.com/protieusz/Sentinel/assets/118025702/3b8ac18c-7e6f-4bff-9a41-5a90d950c991)
+![IMG_0528](https://github.com/protieusz/Sentinel/assets/118025702/0dd570f5-b115-4021-92c5-055b3cad9dcd)
+
+Unboxing
+
+![IMG_0659](https://github.com/protieusz/Sentinel/assets/118025702/2331589b-0875-4e8b-9bda-d842ceaac157)
+![IMG_0660](https://github.com/protieusz/Sentinel/assets/118025702/445076fa-49c6-42b0-9abd-eb7bb2cdb857)
+![IMG_0661](https://github.com/protieusz/Sentinel/assets/118025702/9098ae2f-18d4-4410-ac68-63cfe37ed787)
+![IMG_0666](https://github.com/protieusz/Sentinel/assets/118025702/75f48807-3248-47f8-93fe-4332654487ba)
+![IMG_0665](https://github.com/protieusz/Sentinel/assets/118025702/905fd292-8f33-4cf9-b501-cfcb70c356f2)
+![IMG_0664](https://github.com/protieusz/Sentinel/assets/118025702/e2af6ef6-5b9e-4558-8446-37b090ec2df8)
+![IMG_0663](https://github.com/protieusz/Sentinel/assets/118025702/9d7a4185-5209-4f6a-a444-bc43b7284b82)
+![IMG_0662](https://github.com/protieusz/Sentinel/assets/118025702/5b8309ee-7901-4ab2-86da-111ef9d76f06)
+
+
+
+
 
 
 ![IMG_0418](https://github.com/protieusz/Sentinel/assets/118025702/5bb06190-0b76-4cc1-ae05-6e56252302b4)
