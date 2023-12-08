@@ -1,7 +1,7 @@
 # Sentinel
 37 column stagger unisplit keyboard with 25mm or 34mm trackball powered by Omega Supreme Rev 4 all in one module and Universal daughterboard card C3
 
-The Sentinel PCB is sponsored by ![PCBWay](https://github.com/protieusz/Sentinel/assets/118025702/d6bd30d1-d528-4dc9-90f1-f4e84397b4d5)
+The Sentinel PCB is sponsored by ![PCBWay](https://github.com/protieusz/Sentinel/assets/118025702/d6bd30d1-d528-4dc9-90f1-f4e84397b4d5).
 PCBWay is your one stop location for all your PCB needs.  High quality PCBA soldering service.  Thank you PCBWay!
 
 3DP trackball holder is designed by @ma_po_daisuki and his designs are being sold at [his Booth store](https://ma-po.booth.pm/items/5258743) which cost around $10 cad. Go check it out and support him.
