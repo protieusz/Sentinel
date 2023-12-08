@@ -5,9 +5,12 @@ The Sentinel PCB is sponsored by ![PCBWay](https://github.com/protieusz/Sentinel
 PCBWay is your one stop location for all your PCB needs.  High quality PCBA soldering service.  Thank you PCBWay!
 
 3DP trackball holder is designed by @ma_po_daisuki and his designs are being sold at [his Booth store](https://ma-po.booth.pm/items/5258743) which cost around $10 cad. Go check it out and support him.
-November 21, 2023 3DPs
 
-Final Build Pictures:
+This build requires a lot of fitness and DIY fixes since I made an oversight as to float mount my all in one mcu, OmegaSupreme that cause small issues like once you solder the switches, it will be super hard to reach the bolt that hold the screws in place on the opposite side. So you will have to tighten the screw real good or add solder to the pads and the bolt itself to secure it so in the future it does not loosen and you will get a short from the loose bolt in between the switch plate and the pcb. My PCBs are designed to tailor my purpose only so if you want to print and build, please do so at your own risk. Lots of time have been invested in designing this pcb and the whole package. It is now fully working with DIY mods. Overall case thickness would either need to be increase by around 1-2mm or you would modify the bottom plate by cutting a 0.8mm dent to the 1.6mm thick bottom plate to accomodate the J2 4 pin plug that sticks out a bit that causes one section of the bottom case to stick out. I might or might not create a fix in the future. Files will me made public soon and you guys can modify it.  The wire for the daughterboard is a tight fit but doable so please be careful adjustin gthe wire slack since the FR4 is sharp and can cut the thin wires for the daughterboard card.
+
+QMK firmware and source code is borrowed from Aki27's bally so everything is still the same except the keymapping and the matrix, etc. No support is given. Please ask the original author for help if there are issues. It is working very good and I am using it as daily driver.
+
+Final Build Pictures December 7, 2023:
 
 ![IMG_0657](https://github.com/protieusz/Sentinel/assets/118025702/0c1af8b4-8d0c-48e1-94b4-bb2f903c4dc1)
 ![IMG_0656](https://github.com/protieusz/Sentinel/assets/118025702/27b509d3-157b-402f-8443-c0ebab0471b5)
