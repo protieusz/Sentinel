@@ -17,6 +17,7 @@ Final Build Pictures December 7, 2023:
 ![IMG_0655](https://github.com/protieusz/Sentinel/assets/118025702/ff6dac3b-6546-493d-8d74-3690ed9484c3)
 ![IMG_0654](https://github.com/protieusz/Sentinel/assets/118025702/602a8032-cfb0-4a18-ad94-efc84903e570)
 ![IMG_0653](https://github.com/protieusz/Sentinel/assets/118025702/c1ff32c3-3724-4eba-96f7-bb95162c8904)
+![IMG_0667](https://github.com/protieusz/Sentinel/assets/118025702/5d723fd6-6dee-4e00-ab62-2181bf89a572)
 
 Build Process:
 
