@@ -10,6 +10,8 @@ This build requires a lot of fitness and DIY fixes since I made an oversight as 
 
 QMK firmware and source code is borrowed from Aki27's bally so everything is still the same except the keymapping and the matrix, etc. No support is given. Please ask the original author for help if there are issues. It is working very good and I am using it as daily driver.
 
+Featured on https://kbd.news/Sentinel-2220.html
+
 Final Build Pictures December 7, 2023:
 
 ![IMG_0657](https://github.com/protieusz/Sentinel/assets/118025702/0c1af8b4-8d0c-48e1-94b4-bb2f903c4dc1)
