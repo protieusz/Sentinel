@@ -15,6 +15,7 @@ Featured on https://kbd.news/Sentinel-2220.html
 Final Build Pictures December 7, 2023:
 
 ![IMG_0657](https://github.com/protieusz/Sentinel/assets/118025702/0c1af8b4-8d0c-48e1-94b4-bb2f903c4dc1)
+![IMG_0716](https://github.com/protieusz/Sentinel/assets/118025702/aaeeb1be-edbb-4d3a-adfa-a15fd0acb4a7)
 ![IMG_0656](https://github.com/protieusz/Sentinel/assets/118025702/27b509d3-157b-402f-8443-c0ebab0471b5)
 ![IMG_0655](https://github.com/protieusz/Sentinel/assets/118025702/ff6dac3b-6546-493d-8d74-3690ed9484c3)
 ![IMG_0654](https://github.com/protieusz/Sentinel/assets/118025702/602a8032-cfb0-4a18-ad94-efc84903e570)
