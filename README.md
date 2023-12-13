@@ -47,6 +47,17 @@ Build Process:
 ![IMG_0526](https://github.com/protieusz/Sentinel/assets/118025702/3b8ac18c-7e6f-4bff-9a41-5a90d950c991)
 ![IMG_0528](https://github.com/protieusz/Sentinel/assets/118025702/0dd570f5-b115-4021-92c5-055b3cad9dcd)
 
+Made an oversight mistake on the spacing the sensor and the flash chip. Apparently when closing the bottom switch plate, there was a bulge.  So it turns out that overall thickness of the case needs to be increase by around 1mm to 1.2mm to accomodate for the flash chip and the mouse sensor.  So I had to DIY melt cut square holes on the bottom case. In the future I might correct the case by adding 1.2mm to the thickness.  Right now this is a temporary fix.  Designing is not as easy as it seems. You cannot foresee any future hiccups.
+
+![IMG_0712](https://github.com/protieusz/Sentinel/assets/118025702/3de4f145-6561-4232-a55b-5c0a42dd48d0)
+![IMG_0711](https://github.com/protieusz/Sentinel/assets/118025702/edcc85c0-62a4-4d20-8033-b592cc250606)
+![IMG_0710](https://github.com/protieusz/Sentinel/assets/118025702/8e45c64e-e049-4b84-9a91-398b015e27d5)
+![IMG_0709](https://github.com/protieusz/Sentinel/assets/118025702/fd2a9702-2b78-4f8c-81aa-25599a7f6f59)
+![IMG_0708](https://github.com/protieusz/Sentinel/assets/118025702/a2e3675b-0f3f-4ee4-a919-c2a44fa0ae0c)
+![IMG_0707](https://github.com/protieusz/Sentinel/assets/118025702/3cbf27b5-00ee-487e-930e-af52d01d8d68)
+![IMG_0706](https://github.com/protieusz/Sentinel/assets/118025702/e785eff8-54ce-4709-963d-a61dee8485f6)
+![IMG_0705](https://github.com/protieusz/Sentinel/assets/118025702/5cac77c0-332e-4b3b-b18b-89bb66878060)
+
 Unboxing
 
 ![IMG_0659](https://github.com/protieusz/Sentinel/assets/118025702/2331589b-0875-4e8b-9bda-d842ceaac157)
